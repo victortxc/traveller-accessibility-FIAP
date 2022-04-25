@@ -1,0 +1,92 @@
+nav {
+    background-color: #1391D2;
+    padding: 10px 40px;
+}
+
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand:focus {
+    outline: 1px solid #fff;        
+}
+
+.nav-link {
+    color: #fff !important;
+    margin-right: 1rem;
+}
+
+.nav-link:hover {
+    color: #fff;
+    background-color: #005FA3;
+}
+
+.nav-link:focus {
+    color: #fff;
+    outline: 1px solid #fff;        
+}
+
+.dropdown-item:focus {
+    outline: 1px solid #000; 
+}
+
+.navbar-toggler-icon  {
+    color: #fff;
+}
+
+
+header {
+    height: 50vh;
+   background: url("https://cdn2.civitatis.com/images/banners/home-07.jpg");
+}
+
+.btn {
+    background-color: #1391D2;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #005FA3;
+    color: #fff;
+}
+
+.btn:focus {
+   outline: 1px solid #fff;
+
+}
+
+.form-control:focus {
+    outline: 1px solid #005FA3;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    font-weight: 200;
+}
+
+.card {
+    margin-left: 20px;
+    width: 18rem;
+    padding: 0;
+}
+
+.card-text {
+    height: 75%;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #1391D2;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 20px;
+  }
+
