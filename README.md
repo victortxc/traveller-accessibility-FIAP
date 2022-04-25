@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img alt="traveller" src="./images/readme.png">
+  <img alt="traveller" src="./assets/traveller.png">
 </div>
 
 ---
